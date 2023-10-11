@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swatipettenwal
-- 👀 I’m interested in python coding and projects
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Apex coding and projects
+- 🌱 I’m currently working on Salesforce
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
